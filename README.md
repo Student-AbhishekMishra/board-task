@@ -103,4 +103,4 @@ http://localhost:5173/
 
 The application is deployed publicly.
 
-Deployment URL: https://board-task-two.vercel.app/login
+Deployment URL: https://board-task-two.vercel.app/
